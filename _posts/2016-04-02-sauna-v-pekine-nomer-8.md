@@ -12,4 +12,8 @@ categories: путешествия китай
 * шведский стол
 * комната отдыха, где можно поспать
 
+<<<<<<< Updated upstream
 Баня расположена недалеко от метро Tuanjiehu, пешком идти 10-15 минут. К оплате принимают банковские карты Visa и MasterCard. Вход круглосуточный, требуют паспорт для регистрации иностранцев, как в гостинице. 
+=======
+<iframe src="https://www.google.com/maps/d/embed?mid=zJv_gutsJCmU.kJ5YH1jwJrfk" width="640" height="480"></iframe>
+>>>>>>> Stashed changes
