@@ -1,4 +1,4 @@
-# Site settings
+﻿# Site settings
 title:       Indiana 108
 email:       your_email@example.com
 author:      John Otander
@@ -17,7 +17,7 @@ google_tag_manager:
 bing_verification:
 
 # Optional features
-animated:             false
+animated:             true
 show_related_posts:   false
 show_post_footers:    false
 show_social_icons:    false
