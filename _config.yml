@@ -39,7 +39,7 @@ facebook_comments_number: 10
 github_username:
 bitbucket_username:
 stackoverflow_id:
-twitter_username: indiana108
+twitter_username: 
 skype_username:
 steam_nickname:
 google_plus_id:
@@ -50,6 +50,7 @@ bitcoin_url:
 paypal_url:
 flattr_button:
 instagramm_username: indiana108
+vk_username: indiana108
 
 # Post sharing icons
 show_sharing_icons: false
