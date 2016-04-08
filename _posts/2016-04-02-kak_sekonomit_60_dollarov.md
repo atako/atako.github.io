@@ -5,6 +5,7 @@ date:       2016-04-02
 summary:    Через сайт Airbnb вы можете пожить в квартире местного жителя и сэкономить до 60 долларов. 			
 categories: tips
 permalink: /travel/tips/airbnb_60_dollarov/
+tags: travel
 ---
 
 Этот способ отлично подходит для тех, кто путешествует парой.
