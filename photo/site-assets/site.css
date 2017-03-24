@@ -171,7 +171,7 @@ a.docs-menu__item--active {
   -webkit-box-sizing: content-box;
   -moz-box-sizing: content-box;
   box-sizing: content-box;
-  background-color: #f8f8f8;
+  background-color: #000000;
   height: 600px;
   
 }
@@ -197,7 +197,7 @@ margin-bottom: 26px;
 
 
 /* Syntax highlighter styles (for docs) */
-.highlight { background-color: #f8f8f8 }
+.highlight { background-color: #000000 }
 .c { color: #888; } /* Comment */
 .err { color: #a61717; background-color: #e3d2d2 } /* Error */
 .k { color: #a71d5d; } /* Keyword */
@@ -471,7 +471,7 @@ p, ul.text-list {
 }
 .section--head {
   margin: 0;
-  background: #EEE;
+  background: #000000;
   /*background: linear-gradient(180deg, #eee 0%,#fff 100%);*/
   padding: 132px 0;
 }
